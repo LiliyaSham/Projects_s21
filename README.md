@@ -45,7 +45,5 @@
 ---
 
 ## 🙋‍♀️ Автор
-Шаммасова Лилия  
-  
-📧 [ваш.email@example.com]  
-🔗 [GitHub](https://github.com/ваш-ник) \| [LinkedIn](https://linkedin.com/in/ваш-профиль)
+Шаммасова Лилия
+🔗 [GitHub]([https://github.com/ваш-ник](https://github.com/LiliyaSham/MyProjects.git)) \| [Telegram](@LiliyaShammasova)
