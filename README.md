@@ -44,5 +44,6 @@
 
 ## 🙋‍♀️ Автор
 Шаммасова Лилия
-Telegram: @LiliyaShammasova
-🔗 [GitHub][https://github.com/LiliyaSham]
+
+Telegram: @LiliyaShammasova  
+🔗 [GitHub](https://github.com/LiliyaSham)
